@@ -1,5 +1,8 @@
 Here's a high-level overview of the architecture and steps involved in communicating from an Android device to an ESP32 device over Bluetooth:
 
+Reference:
+https://developer.android.com/guide/topics/connectivity/bluetooth
+
 ### High-Level Architecture:
 
 1. **Bluetooth Setup:**
