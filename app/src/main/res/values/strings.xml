@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motor Application</string>
+    <string name="close_curtain">Close Curtain</string>
+    <string name="open_curtain">Open Curtain</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="pause">Pause</string>
+
+</resources>
