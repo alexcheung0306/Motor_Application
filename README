@@ -3,6 +3,7 @@
 This guide provides an overview of the architecture and steps involved in communicating from an Android device to an ESP32 device using Bluetooth.
 
 > **Reference:** [Android Bluetooth Guide](https://developer.android.com/guide/topics/connectivity/bluetooth)
+> **Reference:** [Compose layout basics](https://developer.android.com/jetpack/compose/layouts/basics)
 
 ## 🏗 High-Level Architecture:
 
